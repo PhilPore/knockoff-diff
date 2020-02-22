@@ -34,7 +34,7 @@ while i < len(cubech) and j < len(cubecomp):
             )
         )
         print(
-            "Furthermore, File 1's Line {}'s length is {} while File 2's line length is {}. No words man. NO WORDS.".format(
+            "Furthermore, File 1's Line {}'s length is {} while File 2's line length is {}. Nice work, I'm actually kind of impressed.".format(
                 i, len(cubech[i]), (cubecomp[j])
             )
         )
